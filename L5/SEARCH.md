@@ -1,0 +1,3 @@
+- SPA
+- Virtual DOM vs DOM
+- GSAP

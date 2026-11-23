@@ -1,0 +1,4 @@
+- https://react-icons.github.io/react-icons/
+- https://icones.js.org/
+- https://spline.design/
+- https://threejs.org/

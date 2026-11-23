@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+    --color-moones: #ff0000;
+}
+
+.section {
+    @apply bg-moones p-2 grid grid-cols-3 gap-5 max-[900px]:grid-cols-2 max-[600px]:grid-cols-1;
+}
+
+.card {
+    @apply bg-black text-white h-[100px] flex justify-center items-center hover:bg-amber-500 duration-300;
+}
+
+.shadow-blur {
+    box-shadow: 0 0 200px 300px orange;
+    margin: 0 auto;
+}

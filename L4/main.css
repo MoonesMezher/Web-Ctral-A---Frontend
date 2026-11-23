@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: transparent;
+    margin: 10px auto;
+    box-shadow:
+        10px 10px 1px 1px #ff0000ce,
+        15px 15px 1px 1px #ff00008e,
+        20px 20px 1px 1px #ff000032;
+}
+
+span {
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background-color: red;
+    box-shadow: 0 0 200px 200px red;
+    display: block;
+    margin: 100px auto;
+}
